@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = huda.salameh44@gmail.com
+	name = huda salameh
